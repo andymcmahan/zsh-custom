@@ -64,7 +64,7 @@ cp -fr ~/.zsh/zsh-completions ~/.oh-my-zsh-custom/plugins/
 
 bold "Installing zsh-syntax-highlighting"
 preinstall ~/.zsh/zsh-syntax-highlighting
-git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ~/.zsh/zsh-syntax-highlighting
+git clone https://github.com/brandon-fryslie/zsh-syntax-highlighting.git ~/.zsh/zsh-syntax-highlighting
 cp -fr ~/.zsh/zsh-syntax-highlighting ~/.oh-my-zsh-custom/plugins/
 
 bold "Installing rad-plugins"
