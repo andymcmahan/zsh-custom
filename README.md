@@ -10,6 +10,10 @@
     Optionally Nerd fonts:
     https://github.com/ryanoasis/nerd-fonts
 
-3. Run install.sh
+3. Change iterm2 fonts to use a powerline font:
+   iterm2 menu: Preferences.../Profiles/text
+   (Meslo)
+   
+4. Run install.sh
 
 
