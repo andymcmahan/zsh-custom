@@ -132,7 +132,7 @@ plugins=(
     docker-alm   
     docker-compose
     git
-    iterm
+    iterm2
     kubectl
     pip
     shell-tools
